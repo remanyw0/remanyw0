@@ -26,8 +26,9 @@ Tenho experiência com levantamento de requisitos e análise de código legado p
 ## Tecnologias em estudo
 
 - HTML, CSS e JavaScript
-- Python (Lógica e Django)
-- Banco de Dados
+- Python (Django)
+- Java
+- SQL e Banco de Dados (MySQL)
 
 ## Em destaque
 
