@@ -1,7 +1,7 @@
 <h1 align="center">Remany W.</h1>
 
 <p align="center">
-  Desenvolvedor de Software em Formação na <strong>UNCISAL</strong>
+  Desenvolvedor de Software em Formação
 </p>
 
 <p align="center">
