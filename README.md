@@ -40,7 +40,7 @@ Tenho experiência com levantamento de requisitos e análise de código legado p
 - experiência com levantamento de requisitos e análise de sistemas
 - atenção à apresentação visual dos projetos
 - afinidade com organização de interface e conteúdo
-- experiência com Photoshop e Illustrator
+- experiência com ferramentas Adobe e Figma
 
 ## Momento
 
