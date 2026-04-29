@@ -1,7 +1,7 @@
 <h1 align="center">Remany W.</h1>
 
 <p align="center">
-  Desenvolvedor de Software em Formação
+  Desenvolvedor de Software em Formação | <strong>S.I</strong>
 </p>
 
 <p align="center">
