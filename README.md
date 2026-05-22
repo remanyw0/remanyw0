@@ -31,7 +31,7 @@ Sou estudante de Tecnologia em Sistemas para Internet e estou construindo minha 
 
 ## Em destaque
 
-- [Suporte Apple BR](https://github.com)
+- [Suporte Apple BR]([https://github.com](https://github.com/remanyw0/suporteapple.com.br.git))
 - [Visualizar projeto online](https://github.io)
 - [DEV-Web](https://github.com)
 
