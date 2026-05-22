@@ -17,10 +17,9 @@ Sou estudante de Tecnologia em Sistemas para Internet e estou construindo minha 
 
 ## Foco atual
 
-- fortalecer minha base em front-end, back-end e banco de dados
-- ganhar mais experiência prática com projetos reais e análise de sistemas
-- evoluir meu portfólio com projetos mais completos e bem apresentados
-- desenvolver soluções mais modernas, acessíveis e funcionais
+- fortalecer base em front-end, back-end e banco de dados
+- experiência prática com projetos reais e análise de sistemas
+- desenvolvimento de soluções modernas, acessíveis e funcionais
 
 ## Tecnologias em estudo
 
