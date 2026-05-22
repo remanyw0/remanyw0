@@ -14,7 +14,6 @@
 
 Sou estudante de Tecnologia em Sistemas para Internet e estou construindo minha base em desenvolvimento web por meio de projetos acadêmicos, cursos e experiências práticas com análise de sistemas.
 
-Tenho experiência com levantamento de requisitos e análise de código legado para modernização de interfaces e fluxos de sistemas. Gosto de pensar em tecnologia de forma funcional e organizada. Também tenho afinidade com design, o que influencia a forma como estruturo algumas interfaces nos meus projetos.
 
 ## Foco atual
 
