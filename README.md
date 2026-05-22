@@ -37,4 +37,4 @@ Sou estudante de Tecnologia em Sistemas para Internet e estou construindo minha 
 
 ## Momento
 
-Hoje estou em uma fase de aprendizado intenso, prática constante e construção de portfólio, buscando evoluir com consistência e transformar estudo em experiência real.
+Atualmente estou em uma fase de aprendizado intenso, prática constante e construção de portfólio, buscando evoluir com consistência e experiências.
