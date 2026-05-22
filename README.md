@@ -29,12 +29,6 @@ Sou estudante de Tecnologia em Sistemas para Internet e estou construindo minha 
 - Java
 - SQL e Banco de Dados (MySQL)
 
-## Em destaque
-
-- [Suporte Apple BR]([https://github.com](https://github.com/remanyw0/suporteapple.com.br.git))
-- [Visualizar projeto online](https://github.io)
-- [DEV-Web](https://github.com)
-
 ## Diferenciais
 
 - experiência com levantamento de requisitos e análise de sistemas
